@@ -1,0 +1,21 @@
+{
+  "name": "swagger-ui-nodejs",
+  "version": "1.0.0",
+  "description": "Host Swagger API documentation with any Node.js hosting service (Cloudflare Pages / Vercel)",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baobao1270/swagger-ui-nodejs.git"
+  },
+  "keywords": [
+    "swagger"
+  ],
+  "author": "Joseph Chris <joseph@josephcz.xyz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baobao1270/swagger-ui-nodejs/issues"
+  },
+  "homepage": "https://github.com/baobao1270/swagger-ui-nodejs#readme"
+}
